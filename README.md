@@ -1,4 +1,4 @@
-# Base UI - Create React App example in JavaScript
+# MobileApp Lab 3 - Thong Sylvain (312551818)
 
 [Base UI](https://mui.com/base-ui/) is a library of unstyled React UI components and hooks.
 
@@ -6,13 +6,10 @@
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/mui/material-ui):
-
-<!-- #default-branch-switch -->
+Clone the repo!
 
 ```bash
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/base-ui-cra
-cd base-ui-cra
+git clone https://github.com/sthong69/Lab-3-Mobile-App.git
 ```
 
 Install it and run:
@@ -21,11 +18,3 @@ Install it and run:
 npm install
 npm start
 ```
-
-or:
-
-<!-- #default-branch-switch -->
-
-[![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/master/examples/base-ui-cra)
-
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/github/mui/material-ui/tree/master/examples/base-ui-cra)
